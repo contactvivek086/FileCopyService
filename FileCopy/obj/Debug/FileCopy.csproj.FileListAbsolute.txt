@@ -1,0 +1,8 @@
+c:\users\vivek\documents\visual studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe.config
+c:\users\vivek\documents\visual studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+c:\users\vivek\documents\visual studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.pdb
+c:\users\vivek\documents\visual studio 2012\Projects\FileCopy\FileCopy\obj\Debug\FileCopy.csprojResolveAssemblyReference.cache
+c:\users\vivek\documents\visual studio 2012\Projects\FileCopy\FileCopy\obj\Debug\FileCopy.exe
+c:\users\vivek\documents\visual studio 2012\Projects\FileCopy\FileCopy\obj\Debug\FileCopy.pdb
+c:\users\vivek\documents\visual studio 2012\Projects\FileCopy\FileCopy\obj\Debug\FileCopy.ProjectInstaller.resources
+c:\users\vivek\documents\visual studio 2012\Projects\FileCopy\FileCopy\obj\Debug\FileCopy.csproj.GenerateResource.Cache

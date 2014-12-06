@@ -1,0 +1,47 @@
+﻿Installing assembly 'C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+   logfile = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.InstallLog
+Installing service FileCopy...
+Service FileCopy has been successfully installed.
+Creating EventLog source FileCopy in log Application...
+Committing assembly 'C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+   logfile = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.InstallLog
+Installing assembly 'C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+   logfile = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.InstallLog
+Installing service FileCopy...
+Creating EventLog source FileCopy in log Application...
+Rolling back assembly 'C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+   logfile = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.InstallLog
+Restoring event log to previous state for source FileCopy.
+Uninstalling assembly 'C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+   logfile = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.InstallLog
+Removing EventLog source FileCopy.
+Service FileCopy is being removed from the system...
+Service FileCopy was successfully removed from the system.
+Installing assembly 'C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+   logfile = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.InstallLog
+Installing service FileCopy...
+Service FileCopy has been successfully installed.
+Creating EventLog source FileCopy in log Application...
+Committing assembly 'C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.exe
+   logfile = C:\Users\Vivek\Documents\Visual Studio 2012\Projects\FileCopy\FileCopy\bin\Debug\FileCopy.InstallLog
